@@ -1,6 +1,6 @@
 {
   "name": "@fabrix/spool-mailchimp",
-  "version": "1.5.0-alpha.1",
+  "version": "1.5.0",
   "description": "Spool: Mailchimp for Fabrix to implement HashiCorp's https://mailchimpproject.io/",
   "homepage": "https://fabrix.app",
   "author": {
