@@ -9,9 +9,8 @@
 
 :package: Mailchimp Spool
 
-For Documentation see
-[Mailchimp API V3](htigtps://www.npmjs.com/package/mailchimp-api-v3)
-
+For Documentation see [Mailchimp API V3](https://www.npmjs.com/package/mailchimp-api-v3)
+For Mailchimp Documentation see [Mailchimp](https://developer.mailchimp.com/documentation/mailchimp/reference/overview/)
 
 ## Install
 ```sh
